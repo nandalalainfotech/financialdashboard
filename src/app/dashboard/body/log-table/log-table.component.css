@@ -15,7 +15,8 @@
   text-align: center;
   display: flex;
   flex-wrap: wrap;
-  margin-right: 120px;
+  /* margin-right: 120px; */
+  margin-right: 80px;
   margin-left: -22%;
   /* height: 407px; */
 }
