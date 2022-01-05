@@ -45,7 +45,7 @@ export class ThermoprogresscardComponent implements OnInit {
         }
       ],
       chart: {
-        height: 300,
+        height: 312,
         // width: 263,
         type: "bar",
         toolbar: {
