@@ -33,7 +33,7 @@ export class PiechartComponent implements OnInit {
       chart: {
  
         // width: 520,
-        height:800,
+        height:300,
         type: "pie"
       },
       labels: ["MM/ML", "LL Shopify", "Sample", ],
