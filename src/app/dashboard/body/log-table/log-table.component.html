@@ -1,0 +1,38 @@
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">{{ 'LIST' | translate }}</h5>
+        <div class="dashboard-logs">
+            <perfect-scrollbar class="scroll" [config]="{suppressScrollX: true, wheelPropagation: false}">
+                <table class="table table-sm table-borderless">
+                    <tbody>
+                        <tr *ngFor="let log of data">
+                            <td>
+                                <span [class]="'log-indicator align-middle '+ log.color"></span>
+                            </td>
+                            <td>
+                                <span class="font-weight-medium">{{log.label}}</span>
+                            </td>
+                            <td class="text-right"><span class="text-muted">{{log.time}}</span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </perfect-scrollbar>
+        </div>
+    </div>
+</div>
+<!-- <div class="col-md-6 col-sm-6">
+    <div class="column">
+      <div class="card7">
+        <h3 style="margin-top: 56px;">MM/ML: 12,000-30%</h3> <br>
+        <p>Lookalike Shopify : 12,000.30%</p> <br>
+        <p>SM :6,000 - 15%</p><br>
+        <p>OCE </p><br>
+        <p>LLA stub </p><br>
+        <p>Their Customers </p><br>
+        <p>PP </p><br>
+      </div>
+    </div>
+  </div>
+
+ -->

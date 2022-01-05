@@ -1,0 +1,22 @@
+.h2 {
+    font-size: 22px;
+    margin: 10px 0;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+  
+  }
+  
+  /* .setting .dropdown .btn .btn-default .dropdown-toggle>li>a {
+      color: white !important; 
+      /* color: orange !important; */
+  
+  /* } */
+  
+  .is-active {
+    color: orange !important;
+    font-weight: bold !important;
+  }
+
+  

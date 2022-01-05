@@ -1,0 +1,12 @@
+.dataView {
+    position: absolute;
+    top: 58px;
+    min-height: inherit;
+    margin-left: 75px !important;
+    overflow-x: inherit;
+    bottom: 58px;
+    left: 0px;
+    right: 0px;
+    transition: 1500ms linear;
+    overflow: auto;
+}
