@@ -37,25 +37,25 @@ export class LogTableComponent implements OnInit {
     },
     {
       label: 'OCE',
-      time: '',
+      time: '-',
       color: 'border-theme-2',
       key: 3
     },
     {
       label: 'LLA stub',
-      time: '',
+      time: '-',
       color: 'border-theme-2',
       key: 4
     },
     {
       label: 'Their Customers',
-      time: '',
+      time: '-',
       color: 'border-theme-2',
       key: 5
     },
     {
       label: 'PP',
-      time: '',
+      time: '-',
       color: 'border-danger',
       key: 6
     },

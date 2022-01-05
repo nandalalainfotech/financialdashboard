@@ -16,7 +16,11 @@
   display: flex;
   flex-wrap: wrap;
   /* margin-right: 120px; */
+ /* current 
   margin-right: 80px;
-  margin-left: -22%;
+  margin-left: -22%; */
   /* height: 407px; */
+  margin-right: 86px;
+  margin-left: -15%;
+  height: 325px;
 }
