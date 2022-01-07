@@ -15,11 +15,26 @@
   text-align: center;
   display: flex;
   flex-wrap: wrap;
- /* current  */
-  margin-right: 3px;
+  /* margin-left: -8rem;
+  margin-right: 9rem; */
+
+  margin-right: 88px;
   margin-left: -22%;
+/* now 
+  margin-left: -36%;
+  margin-right: -118px;*/
+  /* margin-right: -117px;
+  margin-left: -38%; */
   height: 325px;
+  /* margin-right: 3px;
+  margin-left: -22%; */
 }
+
+ /* current  
+ margin-right: 3px;
+ margin-left: -22%;*/
+
+
 
 /* old code 
 margin-right: 80px;
