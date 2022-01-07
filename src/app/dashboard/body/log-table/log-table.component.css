@@ -15,12 +15,45 @@
   text-align: center;
   display: flex;
   flex-wrap: wrap;
-  /* margin-right: 120px; */
  /* current  */
-  margin-right: 80px;
+  margin-right: 3px;
   margin-left: -22%;
-  /* height: 407px; */
-  /* margin-right: 76px;
-  margin-left: -22%; */
   height: 325px;
 }
+
+/* old code 
+margin-right: 80px;
+margin-left: -22%; */
+
+
+/* body {
+  background-color: #61093a
+}
+
+.part1 {
+  background-color: #fff5f7;
+  border-radius: 12px;
+  width: 300px;
+  height: 400px
+}
+
+
+
+.free {
+  font-size: 15px;
+  font-weight: 700
+}
+
+.amount {
+  font-size: 28px;
+  font-weight: 700
+}
+
+.user {
+  font-size: 12px
+}
+
+.information {
+  font-size: 16px;
+  font-weight: 600
+} */
