@@ -15,17 +15,27 @@
   text-align: center;
   display: flex;
   flex-wrap: wrap;
+  /* margin-left: -6%; */
+  /* margin-right: 66%;  */
+  margin-left: -24%;
+  width: 100%;
+  height: 325px;
+  /* margin-left: -6%;
+  margin-right: 88rem; */
+
+
   /* margin-left: -8rem;
   margin-right: 9rem; */
 
+  /* current code alignmnt 7/1
   margin-right: 88px;
-  margin-left: -22%;
+  margin-left: -22%; */
 /* now 
   margin-left: -36%;
   margin-right: -118px;*/
   /* margin-right: -117px;
   margin-left: -38%; */
-  height: 325px;
+
   /* margin-right: 3px;
   margin-left: -22%; */
 }
