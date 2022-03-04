@@ -13,7 +13,8 @@
     display: flex;
     flex-wrap: wrap;
    /* margin-left: -99px; */
-    margin-top: -8px;
+    /* margin-top: -8px; */
+    transform: translate(6px, -8px);
   }
   
   /* old code */
