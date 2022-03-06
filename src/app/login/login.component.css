@@ -1,0 +1,191 @@
+
+.fullbody{
+    background: linear-gradient( to bottom, #BAC4CD 0%, #FFFFFF 51%, #647A8B 100%);
+    height: 100%;
+    width: 100%;
+}
+
+
+input.form-control.rounded {
+    border-radius: 2rem !important;
+  }
+  
+  .card-signin {
+    border: 0;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1rem 0 rgb(0 0 0 / 10%);
+    transform: translate(75%, 116px);
+  }
+  
+  .card-signin  {
+    margin-bottom: 2rem;
+    margin-left: 11%;
+    font-weight: 300;
+    font-size: 1.5rem;
+    width: 90%;
+  }
+  
+  .card-title{
+    margin-top: -24px;
+    /* margin-left: 167px; */
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .card-signin .card-body {
+    padding: 6rem;
+  }
+  
+  .label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    margin-left: 11px;
+}
+
+  .form-control {
+    display: block;
+    width: 100%;
+    height: 39px;
+    padding: 6px 14px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+}
+
+
+  .form-signin {
+    width: 100%;
+    padding: 28px 0px 73px 0px;
+  }
+  
+  .form-signin .btn {
+    /* font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 1rem;
+    transition: all 0.2s; */
+    font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 18px;
+    transition: all 0.2s;
+    transform: translate(135px, 24px);
+    width: 36%;
+  }
+  
+/* .btn .btn-lg .btn-primary .btn-block .text-uppercase{
+    color: rgb(20, 83, 220);
+} */
+ .submit .btn {
+    position: relative;
+    color: rgb(255, 255, 255);
+    background: rgb(10, 51, 98);
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    width: 77%;
+    border: none;
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+    /* margin-left: 37px; */
+    cursor: pointer !important;
+    transform: translate(92%, 26px);
+    padding: 11px;
+}
+
+
+ .submit .btn:hover,
+ .submit .btn:focus {
+    color: #fff;
+    background-color: #A3A3A3;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    cursor: pointer !important;
+}
+
+  .form-label-group {
+    position: relative;
+    margin-bottom: 1rem;
+  }
+  
+  .form-label-group input {
+    border-radius: 2rem;
+  }
+  
+  .form-label-group>input,
+  .form-label-group>label {
+    padding: var(--input-padding-y) var(--input-padding-x);
+  }
+  
+  .form-label-group>label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    margin-bottom: 0;
+    /* Override default `<label>` margin */
+    line-height: 1.5;
+    color: #495057;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    transition: all .1s ease-in-out;
+  }
+  
+  .form-label-group input::-webkit-input-placeholder {
+    color: transparent;
+  }
+  
+  .form-label-group input:-ms-input-placeholder {
+    color: transparent;
+  }
+  
+  .form-label-group input::-ms-input-placeholder {
+    color: transparent;
+  }
+  
+  .form-label-group input::-moz-placeholder {
+    color: transparent;
+  }
+  
+  .form-label-group input::placeholder {
+    color: transparent;
+  }
+  
+  .form-label-group input:not(:placeholder-shown) {
+    padding-top: calc(var(--input-padding-y) + var(--input-padding-y) * (2 / 3));
+    padding-bottom: calc(var(--input-padding-y) / 3);
+  }
+  
+  .form-label-group input:not(:placeholder-shown)~label {
+    padding-top: calc(var(--input-padding-y) / 3);
+    padding-bottom: calc(var(--input-padding-y) / 3);
+    font-size: 12px;
+    color: #777;
+  }
+  
+  .btn-google {
+    color: white;
+    background-color: #ea4335;
+  }
+  
+  .btn-facebook {
+    color: white;
+    background-color: #3b5998;
+  }
