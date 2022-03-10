@@ -1,36 +1,33 @@
-
-  .card {
+.card {
     width: 100%;
     background-color: #fff;
     border-radius: 19px;
     border: none;
     position: relative !important;
-    box-shadow: 0 0.46875rem 2.1875rem rgba(90, 97, 105, 0.1),
-        0 0.9375rem 1.40625rem rgba(90, 97, 105, 0.1),
-        0 0.25rem 0.53125rem rgba(90, 97, 105, 0.12),
-        0 0.125rem 0.1875rem rgba(90 97 105 / 10%);
+    box-shadow: 0 0.46875rem 2.1875rem rgba(90, 97, 105, 0.1), 0 0.9375rem 1.40625rem rgba(90, 97, 105, 0.1), 0 0.25rem 0.53125rem rgba(90, 97, 105, 0.12), 0 0.125rem 0.1875rem rgba(90 97 105 / 10%);
     text-align: center;
     display: flex;
     flex-wrap: wrap;
-   /* margin-left: -99px; */
+    /* margin-left: -99px; */
     /* margin-top: -8px; */
     transform: translate(6px, -8px);
-  }
-  
-  /* old code */
-  /* margin-left: -99px;
+    margin-left: -8px;
+}
+
+
+/* old code */
+
+
+/* margin-left: -99px;
   margin-top: -8px; */
 
-
-
-  apx-chart {
+apx-chart {
     transition: width ease;
     width: 100%;
-  }
+}
 
 
-
-  /* width: 100%;
+/* width: 100%;
   background-color: #fff;
   border-radius: 19px;
   border: none;
